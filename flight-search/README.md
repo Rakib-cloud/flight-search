@@ -26,7 +26,7 @@ provides all available flight after submit form.Also dynamically handle availabl
 
 **Version Control System: GIT
 
-[//]: # (## Deployment)
+
 
 [//]: # (Run and visit this project at)
 
@@ -38,6 +38,7 @@ provides all available flight after submit form.Also dynamically handle availabl
 ##  Key Summary of this project
 
 It took me 1.5 hours to complete the task. The best practices I have used in this project are dynamic filter, front-end framework, component-based architecture, parsing data.
+## My GitHub : [Rakib-cloud](https://github.com/Rakib-cloud)
 
 Some of my industry standard project.Which all are live project:
 
@@ -47,6 +48,7 @@ Some of my industry standard project.Which all are live project:
 4. [Smart Kaj-Dashboard](https://smartdashboard.selopian.us/auth/login )  --- Smart Kaj Dashboard.[Login information ->Email:dummy@gmail.com , Pass:testpass]
 5. [Chemist ERP](https://chemisterp.selopian.us/auth/login )  --- Complex ERP Where one software can manage multiple companies.[Login information ->Email:admin@admin.com , Pass:123456]
 
+## Note : I am unable to share my current company private github repo but you can explore my github public repo.If you need to check then i can share my top github via google meet.
 
 
 
