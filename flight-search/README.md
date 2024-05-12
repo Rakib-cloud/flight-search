@@ -10,7 +10,7 @@ provides all available flight after submit form.Also dynamically handle availabl
   ```
 
   ```bash
-  cd flight-search/
+  cd flight-search
   ```
 
   ```bash
@@ -22,13 +22,11 @@ provides all available flight after submit form.Also dynamically handle availabl
   ```
 
 ## Technology Used
-
-**Client:** JavaScript,  React, Tailwind
+**JavaScript,  React, Tailwind
 
 **Version Control System: GIT
 
-
-## Deployment
+[//]: # (## Deployment)
 
 [//]: # (Run and visit this project at)
 
@@ -37,7 +35,7 @@ provides all available flight after submit form.Also dynamically handle availabl
 
 
 
-## 🚀 About Completing this Project
+##  Key Summary of this project
 
 It took me 1.5 hours to complete the task. The best practices I have used in this project are dynamic filter, front-end framework, component-based architecture, parsing data.
 
