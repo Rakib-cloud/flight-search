@@ -5,8 +5,6 @@ const FlightTable = ({data}) => {
 
     return (
         <div className="container ">
-
-
             <h3 className="font-semibold text-sm mt-2 pb-2">Data Parsed Successfully</h3>
             <table cellSpacing="0">
                 <tr className="headers">
