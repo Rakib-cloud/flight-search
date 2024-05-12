@@ -1,0 +1,33 @@
+
+  table,th,td{
+    border: 0;
+  }
+  table{
+    width: 100%;
+    text-align: center;
+  }
+  .innerTable{
+    width: 100%;
+    text-align: center;
+  }
+  tr.headers{
+    background-color: #E5E7EB;
+  }
+  tr.even{
+    background-color: #F3F4F6;
+  }
+  tr.odd{
+    background-color: #E5E7EB;
+  }
+  
+  tr.odd>td{
+    border-top: 1px solid #F87171 !important;
+    border-bottom: 1px solid #F87171 !important;
+  }
+  button.select{
+    padding: 4px 15px;
+    background-color: #312E81;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+  }
