@@ -24,7 +24,6 @@ const FlightTable = ({data}) => {
                 {data?.map((outerValue, index) => {
                     let fareBasis = outerValue['fareBasis'][0]
                     let classes = outerValue['class'][0]
-                    // let seats = outerValue['seat']
                     let price = outerValue['price']
                     let duration = outerValue['itineraries'][0]['duration']
                     let rowClass = 'even'

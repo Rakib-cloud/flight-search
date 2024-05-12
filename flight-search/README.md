@@ -27,14 +27,6 @@ provides all available flight after submit form.Also dynamically handle availabl
 **Version Control System: GIT
 
 
-
-[//]: # (Run and visit this project at)
-
-[//]: # ()
-[//]: # ([https://flight-search-project.vercel.app/]&#40;https://flight-search-project.vercel.app&#41;)
-
-
-
 ##  Key Summary of this project
 
 It took me 1.5 hours to complete the task. The best practices I have used in this project are dynamic filter, front-end framework, component-based architecture, parsing data.
